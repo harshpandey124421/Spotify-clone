@@ -1,0 +1,1 @@
+This is a spotify clone and also my first web development project (done simply using youtube but with 110% of understanding and learning.)
