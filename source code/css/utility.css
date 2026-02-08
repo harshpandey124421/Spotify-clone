@@ -1,0 +1,17 @@
+.flex {
+    display: flex;
+}
+
+.item-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+/* Temporary utility css */
+.border {
+    border: 2px solid red;
+    margin: 2px;
+}
